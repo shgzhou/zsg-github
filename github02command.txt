@@ -1,5 +1,0 @@
-1 git status
-2 git add   example: git add file
-3 git commint example: git commit -m "add file"
-4 git log
-5 push
